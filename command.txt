@@ -2,7 +2,7 @@
 git init
 # 2.every time to add
 git add .
-
+# 3.every time you commit
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/mdshobuj2025/my-first-github.git
